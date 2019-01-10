@@ -2,7 +2,7 @@
 A list of code examples with the most common programming problems known. Very useful to teach programming skills to interns and trainees.
 
 ## Visual Basic 6
- - [001 - Operator precedence](Visual Basic 6/001)
+ - [001 - Operator precedence](VisualBasic6/001)
  - [002 - Variable overflow](Visual Basic 6/002)
  - [003 - Remarks: too much, too few](Visual Basic 6/003)
  - [004 - Infinite loops + Using recordset before checking .EOF](Visual Basic 6/004)
