@@ -1,5 +1,5 @@
 ## Visual Basic 6
- - [001 - Operator precedence](/001)
+ - [001 - Operator precedence](001)
  - [002 - Variable overflow](/002)
  - [003 - Remarks: too much, too few](/003)
  - [004 - Infinite loops + Using recordset before checking .EOF](/004)
