@@ -18,5 +18,4 @@
  - [017 - Code behind the button](017)
  - [018 - User interaction within a class](018)
  - [019 - Method with more than 1 responsability](019)
- - [020 - More than 3 nested Ifs](020)
- - [021 - Performance: string concatenation and array counting inside a loop](021)
+ - [020 - Performance: string concatenation and array counting inside a loop](020)
