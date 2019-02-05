@@ -6,7 +6,7 @@
  - [005 - Using a recordset without checking Isnull](005)
  - [006 - Hardcoding texts and integers which could be constants and enums](006)
  - [007 - Double if condition with Null value in the 2nd](007)
- - [008 - Missing user input validation](008)
+ - [008 - Missing user input validation - type mismatch and overflow](008)
  - [009 - Open a file with a fixed file number](009)
  - [010 - Open a file without checking if it exists](010)
  - [011 - Variable declaration: out of scope, no meaningful name, no name convention, no type](011)
