@@ -5,14 +5,15 @@ Attribute VB_Name = "SubMain"
 '============================================================================================
 
 Public Sub Main()
-    Dim iFile As Integer
+    Dim iNumeroArquivo As Integer
     Dim sLinha As String
     
-    iFile = FreeFile
+    iNumeroArquivo = FreeFile
     
-    Open App.Path & "\config.ini" For Input As #iFile
-    Do While Not EOF(iFile)
-        Line Input #iFile, sLinha
+    Open App.Path & "\config.ini" For Input As #iNumeroArquivo
+    Do While Not EOF(iNumeroArquivo)
+        Line Input #iNumeroArquivo, sLinha
         Debug.Print (sLinha)
     Loop
+    Close #iNumeroArquivo
 End Sub
