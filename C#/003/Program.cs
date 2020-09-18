@@ -23,7 +23,7 @@ while (posicao <= 11)
 
     System.Console.WriteLine("Valor do IRPF: " + salarios[posicao] / 100 * percentualIRPF);
 
-    // Incrementa a variável iPosicao com +1
+    // Incrementa a variável posicao com +1
     posicao++;
 }
 
